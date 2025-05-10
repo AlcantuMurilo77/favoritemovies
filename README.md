@@ -1,4 +1,3 @@
-````markdown
 # Movie Library
 
 **Movie Library** is a simple project that displays movies using the [TMDB API](https://api.themoviedb.org/3). It allows users to mark movies as favorites and view them on a dedicated favorites page.
@@ -22,7 +21,7 @@
 
    ```bash
    git clone https://github.com/AlcantuMurilo77/favoritemovies.git
-````
+   ```
 
 2. Navigate to the project directory:
 
@@ -61,4 +60,3 @@
 * Add a dedicated database using **MongoDB**.
 * Add a feature to create personal reviews for favorited movies, along with a rating system.
 * Implement user authentication to save personalized favorites.
-
